@@ -1,6 +1,7 @@
 # Sales Performance Analysis - AdventureWorks
 
-Tableau Dashboard for the project can be found [here](https://public.tableau.com/views/SalesPerformanceAnalysis-AdventureWorks/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Tableau Dashboard for the project can be found [here](https://public.tableau.com/views/SalesPerformanceAnalysis-AdventureWorks/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Linked Speadsheet files can be found [here](https://docs.google.com/spreadsheets/d/1hI81Ob0VcnLM4e3vptyPjTTwi2_jUCB50fVu96S3cOM/edit?usp=sharing) [here](https://docs.google.com/spreadsheets/d/1zafklS003xOJS1MT7_T5M-qQzXMkodrf6BT5LM322tA/edit?usp=sharing)
 
 This project analyzes sales performance using the AdventureWorks database, aiming to identify sales trends, top products, and opportunities for revenue growth.
