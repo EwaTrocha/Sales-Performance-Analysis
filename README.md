@@ -2,7 +2,7 @@
 
 Tableau Dashboard for the project can be found [here](https://public.tableau.com/views/SalesPerformanceAnalysis-AdventureWorks/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-This project analyzes sales performance using the AdventureWorks database, aiming to identify sales trends, top products, and opportunities for revenue growth.
+This project analyzes sales performance using the AdwentureWorks database, aiming to identify sales trends, top products, and opportunities for revenue growth.
 
 ## Data Analytics Process
 
