@@ -1,4 +1,4 @@
-# Sales Performance Analysis - AdventureWorks
+# Sales Performance Analysis - AdwentureWorks
 
 Tableau Dashboard for the project can be found [here](https://public.tableau.com/views/SalesPerformanceAnalysis-AdventureWorks/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
